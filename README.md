@@ -23,6 +23,6 @@ This project implements NLP preprocessing techniques and builds a machine learni
 - **F1-Score:** 85%+
 
 ## 🚀 Live Demo
-[Click here to try the app](https://a950fac8531f5cf64a.gradio.live)
+[Click here to try the app](https://e1e6bb2e17bf5b374d.gradio.live)
 
 ## 📂 Project Structure
